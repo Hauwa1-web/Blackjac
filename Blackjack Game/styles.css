@@ -1,0 +1,11 @@
+body{
+    background:rgb(82, 155, 82);
+    text-align:center;
+    font-weight:bold;
+    color:azure;
+}
+
+button{
+    padding:10px;
+    border-radius:3px;
+}
